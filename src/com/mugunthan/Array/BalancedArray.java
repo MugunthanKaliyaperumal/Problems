@@ -30,7 +30,6 @@ public class BalancedArray {
 					return list.get(i+1);
 				}
 			}
-			
 			return result;
 		}
 	}
